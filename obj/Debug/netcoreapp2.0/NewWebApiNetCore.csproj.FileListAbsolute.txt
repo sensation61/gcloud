@@ -1,0 +1,10 @@
+F:\Workstation\gcloud\bin\Debug\netcoreapp2.0\NewWebApiNetCore.deps.json
+F:\Workstation\gcloud\bin\Debug\netcoreapp2.0\NewWebApiNetCore.runtimeconfig.json
+F:\Workstation\gcloud\bin\Debug\netcoreapp2.0\NewWebApiNetCore.runtimeconfig.dev.json
+F:\Workstation\gcloud\bin\Debug\netcoreapp2.0\NewWebApiNetCore.dll
+F:\Workstation\gcloud\bin\Debug\netcoreapp2.0\NewWebApiNetCore.pdb
+F:\Workstation\gcloud\obj\Debug\netcoreapp2.0\NewWebApiNetCore.csproj.CoreCompileInputs.cache
+F:\Workstation\gcloud\obj\Debug\netcoreapp2.0\NewWebApiNetCore.AssemblyInfoInputs.cache
+F:\Workstation\gcloud\obj\Debug\netcoreapp2.0\NewWebApiNetCore.AssemblyInfo.cs
+F:\Workstation\gcloud\obj\Debug\netcoreapp2.0\NewWebApiNetCore.dll
+F:\Workstation\gcloud\obj\Debug\netcoreapp2.0\NewWebApiNetCore.pdb
